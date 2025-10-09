@@ -1,7 +1,3 @@
-Esercizi C++ - Percorso per Principianti:
+Esercizi di C++ per Principianti 🚀
 
-Questa repository contiene una serie progressiva di esercizi in C++ per aiutare i principianti a:
-• Familiarizzare con la sintassi base
-• Comprendere i concetti fondamentali
-• Praticare con esempi pratici e commentati
-
+Una collezione di esercizi di programmazione in C++ pensata per chi sta muovendo i primi passi nel linguaggio. Dagli basics alla OOP, con difficoltà progressiva.
