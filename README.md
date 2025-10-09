@@ -5,4 +5,3 @@ Questa repository contiene una serie progressiva di esercizi in C++ per aiutare 
 • Comprendere i concetti fondamentali
 • Praticare con esempi pratici e commentati
 
-Ideale per studenti e autodidatti alle prime armi con la programmazione.
