@@ -1,3 +1,3 @@
-Esercizi di C++ per Principianti 🚀
+**C++ Exercises for Beginners 🚀**
 
-Una collezione di esercizi di programmazione in C++ pensata per chi sta muovendo i primi passi nel linguaggio. Dagli basics alla OOP, con difficoltà progressiva.
+A curated collection of C++ programming exercises designed for absolute beginners. Covers fundamental syntax, concepts, and gradually increases in difficulty from basic to object-oriented programming.
