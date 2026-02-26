@@ -1,3 +1,26 @@
-**C++ Exercises for Beginners 🚀**
+# C++ Exercises for Beginners 🚀
 
-A curated collection of C++ programming exercises designed for absolute beginners. Covers fundamental syntax, concepts, and gradually increases in difficulty from basic to object-oriented programming.
+A curated collection of 23 C++ programming exercises designed for absolute beginners. These exercises are part of the **Politecnico di Milano (POLIMI)** computer engineering curriculum and cover fundamental programming concepts.
+
+## 📚 Description
+
+This repository contains exercises following the Bachelor's Degree in Computer Engineering program at Politecnico di Milano. The path starts from the most basic concepts and progresses to object-oriented programming, with gradually increasing difficulty.
+
+### What You'll Learn:
+- ✅ Basic C++ syntax
+- ✅ Variables, data types, and operators
+- ✅ Conditional statements (if/else, switch)
+- ✅ Loops (for, while, do-while)
+- ✅ Arrays and strings
+- ✅ Functions and parameter passing
+- ✅ Pointers and memory management
+- ✅ Object-oriented programming (classes, inheritance, polymorphism)
+- ✅ File handling
+
+## 📂 Repository Structure
+
+Each exercise is contained in its own numbered folder and includes:
+
+- The C++ source code (`main.cpp` or `esercizio.cpp`)
+- A dedicated `README.md` file with detailed explanation of the exercise
+- Any example input/output files
