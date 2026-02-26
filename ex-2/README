@@ -1,15 +1,20 @@
-# Exercise 1: Greatest Common Divisor (GCD) Calculator
+# Exercise 2: Average Calculator
 
-A simple C++ program that calculates the Greatest Common Divisor (GCD) of two integers using the Euclidean algorithm (subtraction version).
+A simple C++ program that calculates the arithmetic mean (average) of a set of numbers entered by the user.
 
 ## 📝 Description
 
-This program asks the user to input two integers and computes their greatest common divisor using an iterative subtraction method (a variation of the Euclidean algorithm). The result is then displayed on the screen.
+This program asks the user how many numbers they want to average, then prompts them to enter each value. After all numbers are entered, it calculates and displays the arithmetic mean. The program also handles the special case when the user enters zero numbers, displaying an appropriate message.
 
 ## 🧮 Algorithm
 
-The program uses the subtraction-based Euclidean algorithm:
-1. Takes two integers as input
-2. Repeatedly subtracts the smaller number from the larger number
-3. Continues until both numbers become equal
-4. The resulting equal value is the GCD
+The program uses the standard arithmetic mean formula:
+
+1. **Input validation**: Check if the number of values (n) is zero
+2. **If n = 0**: Display "Average not defined" message
+3. **If n > 0**: 
+   - Initialize sum to 0
+   - Use a loop to read n numbers from the user
+   - Add each number to the running sum
+   - Calculate average by dividing the total sum by n
+   - Display the result
