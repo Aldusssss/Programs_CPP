@@ -10,9 +10,9 @@ This program asks the user how many numbers they want to average, then prompts t
 
 The program uses the standard arithmetic mean formula:
 
-1. **Input validation**: Check if the number of values (n) is zero
-2. **If n = 0**: Display "Average not defined" message
-3. **If n > 0**: 
+1. Input validation Check if the number of values (n) is zero
+2. If n = 0: Display "Average not defined" message
+3. If n > 0 :
    - Initialize sum to 0
    - Use a loop to read n numbers from the user
    - Add each number to the running sum
