@@ -1,4 +1,4 @@
-# 🚀 23 C++ Exercises
+# 🚀 C++ Exercises
 
 A collection of 23 C++ programming exercises ranging from **beginner to intermediate-advanced** levels.
 
