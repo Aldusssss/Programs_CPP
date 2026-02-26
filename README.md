@@ -1,18 +1,33 @@
-# C++ Exercises for Beginners 🚀
+# 🚀 23 C++ Exercises
 
-A curated collection of 23 C++ programming exercises designed for absolute beginners. These exercises are part of the **Politecnico di Milano (POLIMI)** computer engineering curriculum and cover fundamental programming concepts.
+A collection of 23 C++ programming exercises ranging from **beginner to intermediate-advanced** levels.
 
-## 📚 Description
+## 📋 Difficulty Levels
 
-This repository contains exercises following the Bachelor's Degree in Computer Engineering program at Politecnico di Milano. The path starts from the most basic concepts and progresses to object-oriented programming, with gradually increasing difficulty.
+| Level | Stars | Exercises | Description |
+|-------|-------|-----------|-------------|
+| Beginner | ⭐ | 1-8 | Basic syntax, loops, conditionals |
+| Intermediate | ⭐⭐ | 9-16 | Functions, arrays, strings, file I/O |
+| Advanced Beginner | ⭐⭐⭐ | 17-23 | File processing, basic OOP, pointers |
 
-### What You'll Learn:
-- ✅ Basic C++ syntax
-- ✅ Variables, data types, and operators
-- ✅ Conditional statements (if/else, switch)
-- ✅ Loops (for, while, do-while)
+## 🎯 Exercise Progression
+
+The exercises are designed to gradually increase in complexity:
+
+- **Start with Ex 1-8**: Master the fundamentals
+- **Move to Ex 9-16**: Build intermediate skills  
+- **Tackle Ex 17-23**: Challenge yourself with more complex problems
+
+### Example Progression:
+- **Ex 1** (⭐): GCD calculator using while loops
+- ...
+- **Ex 23** (⭐⭐⭐): Caesar cipher with file input/output
+
+## 💡 Key Topics Covered
+- ✅ Basic syntax and control structures
+- ✅ Functions and recursion  
 - ✅ Arrays and strings
-- ✅ Functions and parameter passing
-- ✅ Pointers and memory management
-- ✅ Object-oriented programming (classes, inheritance, polymorphism)
-- ✅ File handling
+- ✅ File I/O operations
+- ✅ Pointers and dynamic memory
+- ✅ Object-Oriented Programming basics
+- ✅ Algorithm implementation
